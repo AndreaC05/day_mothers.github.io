@@ -102,7 +102,7 @@ body {
 
 }
 
-/*@media screen and (max-width:950px) {
+@media screen and (max-width:950px) {
 
   .card {
 
@@ -122,9 +122,9 @@ body {
 
   }
 
-}*/
+}
 
-@media screen and (max-width: 600px) {
+/*@media screen and (max-width: 600px) {
   .card {
     width: 100%;
     height: auto;
@@ -141,4 +141,4 @@ body {
     left: 0;
     top: 0;
   }
-}
+}*/
